@@ -2147,13 +2147,13 @@ static double tile2lat(int y, int z)
 }
 
 /*
-http://tile.openstreetmap.org/18/72337/109822.png
-http://tile.openstreetmap.org/17/36168/54911.png
+https://tile.openstreetmap.org/18/72337/109822.png
+https://tile.openstreetmap.org/17/36168/54911.png
 http://tah.openstreetmap.org/Tiles/tile/17/36168/54911.png
 
 From: http://wiki.openstreetmap.org/index.php/Slippy_map_tilenames
 Name 	 URL 	 zoomlevel
-OSM Mapnik 	http://tile.openstreetmap.org/12/2047/1362.png 	0-18
+OSM Mapnik 	https://tile.openstreetmap.org/12/2047/1362.png 	0-18
 OSM Osmarender/Tiles@Home:	http://tah.openstreetmap.org/Tiles/tile/12/2047/1362.png 	0-17
 OSM Cycle Map 	http://andy.sandbox.cloudmade.com/tiles/cycle/12/2047/1362.png 	0-18
 OSM CloudMade Web style 	http://tile.cloudmade.com/8bafab36916b5ce6b4395ede3cb9ddea/1/256/12/2047/1362.png 	0-18
