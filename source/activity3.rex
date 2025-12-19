@@ -265,7 +265,7 @@ Parse Arg RenderStyle
 /*
 	Tile sources:
 
-	http://tile.openstreetmap.org/5/15/15.png (128.40.168.99 as of 7/2/2009)
+	https://tile.openstreetmap.org/5/15/15.png (128.40.168.99 as of 7/2/2009)
 	http://tah.openstreetmap.org/Tiles/tile/5/15/15.png
 	http://andy.sandbox.cloudmade.com/tiles/cycle/5/15/15.png
 	http://tile.cloudmade.com/8bafab36916b5ce6b4395ede3cb9ddea/1/256/5/15/15.png
