@@ -46,8 +46,8 @@ VFUNCTION CiPassthruBadResponse( MESSAGE_S *Req, 	MESSAGE_S *Rsp );
 
 POINTER_F CiGetPostBody( MESSAGE_S *Req, COUNT_F *Count);
 
-http://tile.openstreetmap.org/18/72337/109822.png
-http://tile.openstreetmap.org/17/36168/54911.png
+https://tile.openstreetmap.org/18/72337/109822.png
+https://tile.openstreetmap.org/17/36168/54911.png
 http://tah.openstreetmap.org/Tiles/tile/17/36168/54911.png
 BGD_DECLARE(gdImagePtr) gdImageCreateFromPngPtr (int size, void *data)
 #endif
